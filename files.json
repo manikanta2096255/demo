@@ -1,0 +1,39 @@
+{
+  "countries": [
+    {
+      "name": "United States",
+      "code": "US",
+      "rank": 1
+    },
+    {
+      "name": "Norway-checked",
+      "code": "NOC",
+      "rank": 19
+    },
+    {
+      "name": "United Kingdom",
+      "code": "GB",
+      "rank": 6
+    },
+    {
+      "name": "Australia",
+      "code": "AU",
+      "rank": 13
+    },
+    {
+      "name": "Norway",
+      "code": "NO",
+      "rank": 9
+    },
+    {
+      "name": "Srilanka",
+      "code": "SL",
+      "rank": 111
+    },
+    {
+      "name": "Norway-checked",
+      "code": "NOC",
+      "rank": 19
+    }
+  ]
+}
